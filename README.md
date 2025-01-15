@@ -57,3 +57,7 @@ The SDLC is composed of 7 phases these include: planning, requirement analysis, 
 The SDLC is important in software projects because it ensures that tasks and challenges are conquered in a sensical order. For instance building an application without a plan for a final product would waste time and resources. The SDLC also allows all parties to work with one another and provide feedback especially in the requirement analysis phase. The SDLC is also important for continuous upkeep of the final product.
 
 (Info from video provided: https://www.youtube.com/watch?v=i-QyW8D3ei0)
+
+## AI Disclosure Form 
+
+[AI Declaration Form](L1_AI_DECLARATION_ERIK_SCHAUFELE_301579449.pdf)
